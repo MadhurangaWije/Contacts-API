@@ -62,6 +62,9 @@ The application is containerized using Docker Compose with two services:
 1. **API Service**
 2. **PostgreSQL Service**
 
+<img width="1246" alt="Screenshot 2025-02-09 at 16 01 04" src="https://github.com/user-attachments/assets/f9d3761f-febb-4ad6-99f1-bac5dd8ec51d" />
+
+
 ## 🚀 Getting Started
 
 1. Clone the repository
