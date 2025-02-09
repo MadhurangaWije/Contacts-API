@@ -66,7 +66,7 @@ The application is containerized using Docker Compose with two services:
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/MadhurangaWije/Contacts-API.git
 ```
 
 2. Start the containers
